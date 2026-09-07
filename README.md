@@ -1,43 +1,33 @@
-# Astro Starter Kit: Minimal
+# Pagina Abogados
 
-```sh
-pnpm create astro@latest -- --template minimal
-```
+Sitio web profesional para servicios jurídicos, desarrollado con Astro, TypeScript y diseño responsive.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 📋 Sobre el proyecto
 
-## 🚀 Project Structure
+Pagina Abogados es un sitio web profesional desarrollado para establecer una presencia digital seria, moderna y confiable para un abogado independiente.
 
-Inside of your Astro project, you'll see the following folders and files:
+El proyecto busca presentar de forma clara su experiencia profesional, áreas de práctica y canales de contacto, ofreciendo una experiencia de usuario sencilla y accesible.
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## 🛠️ Tecnologías
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+- Astro
+- TypeScript
+- pnpm
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## 🎨 Diseño
 
-Any static assets, like images, can be placed in the `public/` directory.
+La interfaz está basada en un diseño previamente definido en Figma y será implementada siguiendo principios de:
 
-## 🧞 Commands
+- Diseño responsive
+- Accesibilidad
+- Arquitectura de componentes
+- Rendimiento web
+- SEO
 
-All commands are run from the root of the project, from a terminal:
+## 📌 Estado del proyecto
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
+🚧 En desarrollo
 
-## 👀 Want to learn more?
+## 👨‍💻 Autor
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Luis Mejía
