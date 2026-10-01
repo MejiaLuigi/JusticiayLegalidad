@@ -1,0 +1,24 @@
+---
+import "./Card.css";
+
+interface Props{
+    icon?: string;
+    date?: string;
+    title: string;
+    description: string;
+    className?: string;
+}
+
+const { icon, date, title, description, className} = Astro.props;
+---
+
+<div class={`card-Container ${className} || ''}`}>
+    <div class="card-Header">
+        {icon && <img src={icon} alt={title} class="card-icon" />}
+        {date && <span class="card-date">{date}</span>}
+    </div>
+    <div class="card-Body">
+        <h2>{title}</h2>
+        <p>{description}</p>
+    </div>
+</div>
