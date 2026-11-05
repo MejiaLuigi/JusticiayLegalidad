@@ -4,7 +4,7 @@ Sitio web profesional para servicios jurídicos, desarrollado con Astro, TypeScr
 
 ## 📋 Sobre el proyecto
 
-Pagina Abogados es un sitio web profesional desarrollado para establecer una presencia digital seria, moderna y confiable para un abogado independiente.
+Justicia & Legalidad es un sitio web profesional desarrollado para establecer una presencia digital seria, moderna y confiable para un abogado independiente.
 
 El proyecto busca presentar de forma clara su experiencia profesional, áreas de práctica y canales de contacto, ofreciendo una experiencia de usuario sencilla y accesible.
 
