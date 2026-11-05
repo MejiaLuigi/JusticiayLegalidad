@@ -1,4 +1,4 @@
-# Pagina Abogados
+# Justicia & Legalidad
 
 Sitio web profesional para servicios jurídicos, desarrollado con Astro, TypeScript y diseño responsive.
 
